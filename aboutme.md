@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mein Name ist Stefan Kaltschik!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Ich bin leidenschaftlicher Fliegenfischer
+- Ich betreibe seit meiner Jugend 
 
 What else do you need?
 
