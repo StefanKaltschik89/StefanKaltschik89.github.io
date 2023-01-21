@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   email: "stefan.kaltschik@donau-uni.ac.at"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+# facebook: deanattali
   github: StefanKaltschik89
 #  twitter: daattali
 #  patreon: DeanAttali
@@ -71,7 +71,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-   ORCID: 0000-0002-8638-0598
+#  ORCID: 0000-0002-8638-0598
 #  google-scholar: your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
