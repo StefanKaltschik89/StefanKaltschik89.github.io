@@ -21,3 +21,5 @@ SPSS (Statistical Package for the Social Sciences) ist eine Software, die von IB
 - Nach erfolgreichem Anmelden wird das SPSS-Startfenster angezeigt. Hier können Sie eine neue Datei erstellen, eine bestehende Datei öffnen, eine Vorlage verwenden oder ein Tutorial starten.
 
 - Wenn Sie eine Datei geöffnet haben, können Sie mit der Datenanalyse beginnen, indem Sie die verschiedenen Funktionen und Tools von SPSS verwenden.
+
+Sollten Sie Hilfe bei der Installation von SPSS benötigen, sehen Sie sich bitte dieses [Tutorial](https://www.youtube.com/watch?v=at2AEztP7no) an. 
