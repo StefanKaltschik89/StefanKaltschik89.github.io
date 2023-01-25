@@ -12,8 +12,18 @@ Was sind p-Werte?
 
 -Ein P-Wert von 0,05 bedeutet, dass es eine 5%ige Wahrscheinlichkeit gibt, dass die Beobachtungen unter der Nullhypothese gemacht wurden. 
 
+## VORSICHT
 
+-Beim Arbeiten und interpretieren mit p-Werten sollten folgende Punkte berücksichtigt werden:
 
-### My story
+- P-Werte geben nur an, wie wahrscheinlich es ist, dass die Beobachtungen unter der Nullhypothese gemacht wurden, sie geben jedoch keine Auskunft darüber, wie wahrscheinlich es ist, dass die Nullhypothese tatsächlich wahr ist.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- P-Werte sind anfällig für Verzerrungen durch große Stichproben, was dazu führen kann, dass unwichtige Unterschiede als signifikant eingestuft werden.
+
+- P-Werte können aufgrund von Verletzungen der Annahmen (z.B. Verletzung der Normalverteilung) ungenau sein.
+
+- P-Werte können leicht missinterpretiert werden, insbesondere durch die Verwendung von signifikant/nicht signifikant als Synonyme für wahr/falsch.
+
+- P-Werte sind nicht in der Lage, die Größe oder die praktische Bedeutung eines Effekts zu messen. SIGNIFIKANZ IST NICHT RELEVANZ!
+
+# Deshalb sollten Sie ihre Schlüsse niemals nur auf p-Werte aufbauen.
