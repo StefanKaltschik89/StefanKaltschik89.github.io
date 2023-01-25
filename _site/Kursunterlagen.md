@@ -6,11 +6,11 @@ subtitle: to p or not to p
 
 Was sind p-Werte?
 
--P-Werte geben an, wie wahrscheinlich es ist, eine Beobachtung unter der Annahme einer Nullhypothese zu machen. Formaler ausgedrückt, beschreibt ein p-Wert die bedingte Wahrscheinlichkeit der Daten unter der H0. p=(Daten|H0)
+- P-Werte geben an, wie wahrscheinlich es ist, eine Beobachtung unter der Annahme einer Nullhypothese zu machen. Formaler ausgedrückt, beschreibt ein p-Wert die bedingte Wahrscheinlichkeit der Daten unter der H0. p=(Daten|H0)
 
--Ein kleiner P-Wert (normalerweise unter 0,05) bedeutet, dass es unwahrscheinlich ist, dass die Beobachtungen unter der Nullhypothese gemacht wurden und dass es einen Unterschied oder eine Beziehung gibt.
+- Ein kleiner P-Wert (normalerweise unter 0,05) bedeutet, dass es unwahrscheinlich ist, dass die Beobachtungen unter der Nullhypothese gemacht wurden und dass es einen Unterschied oder eine Beziehung gibt.
 
--Ein P-Wert von 0,05 bedeutet, dass es eine 5%ige Wahrscheinlichkeit gibt, dass die Beobachtungen unter der Nullhypothese gemacht wurden. 
+- Ein P-Wert von 0,05 bedeutet, dass es eine 5%ige Wahrscheinlichkeit gibt, dass die Beobachtungen unter der Nullhypothese gemacht wurden. 
 
 ## VORSICHT
 
@@ -26,4 +26,9 @@ Was sind p-Werte?
 
 - P-Werte sind nicht in der Lage, die Größe oder die praktische Bedeutung eines Effekts zu messen. SIGNIFIKANZ IST NICHT RELEVANZ!
 
-# Deshalb sollten Sie ihre Schlüsse niemals nur auf p-Werte aufbauen.
+# Deshalb sollten Sie ihre Schlussfolgerungen niemals nur von p-Werten abhängig machen.
+
+- Schenken Sie der Effektstärke mehr Aufmerksamkeit als dem p-Wert
+- Nutzen Sie Konfidenzintervalle
+
+Es besteht ein funktionaler Zusammenhang zwischen Power, Signifikanzniveau und Stichprobengröße. 
