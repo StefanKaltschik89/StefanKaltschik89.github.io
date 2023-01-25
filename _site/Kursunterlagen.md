@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Kursunterlagen
-subtitle: Why you'd want to go on a date with me
+title: Crashkurs Inferenzstatistik
+subtitle: to p or not to p
 ---
 
-Mein Name ist Stefan Kaltschik!
+Was sind p-Werte?
 
-- Ich bin leidenschaftlicher Fliegenfischer
-- Ich betreibe seit meiner Jugend 
+-P-Werte geben an, wie wahrscheinlich es ist, eine Beobachtung unter der Annahme einer Nullhypothese zu machen. Formaler ausgedrückt, beschreibt ein p-Wert die bedingte Wahrscheinlichkeit der Daten unter der H0. p=(Daten|H0)
 
-What else do you need?
+-Ein kleiner P-Wert (normalerweise unter 0,05) bedeutet, dass es unwahrscheinlich ist, dass die Beobachtungen unter der Nullhypothese gemacht wurden und dass es einen Unterschied oder eine Beziehung gibt.
+
+-Ein P-Wert von 0,05 bedeutet, dass es eine 5%ige Wahrscheinlichkeit gibt, dass die Beobachtungen unter der Nullhypothese gemacht wurden. 
+
+
 
 ### My story
 
